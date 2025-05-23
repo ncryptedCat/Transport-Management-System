@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070368735934",
+    "project_id": "tracer-58739",
+    "storage_bucket": "tracer-58739.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070368735934:android:4bd1ab2bf59420090fd4ef",
+        "android_client_info": {
+          "package_name": "com.neelam.tracer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9rILDUdf1_ahrZ00T08Fulo6UNwQIdnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
